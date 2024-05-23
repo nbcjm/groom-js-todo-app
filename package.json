@@ -1,0 +1,9 @@
+{
+  "name": "js-todo-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "index.html"
+  },
+  "packageManager": "yarn@4.1.1"
+}
