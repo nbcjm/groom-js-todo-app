@@ -6,7 +6,7 @@ createBtn.addEventListener('click', createNewTodo);
 
 function createNewTodo() {
   const item = {
-    id: new Date().getTime(), //1690604133472
+    id: new Date().getTime(),
     text: "",
     complete: false
   }
